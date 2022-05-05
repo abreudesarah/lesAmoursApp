@@ -1,0 +1,7 @@
+{
+  "name": "lesAmoursApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
